@@ -1,0 +1,25 @@
+.skills {
+  margin: var(--spacing-3) 0;
+}
+.skill {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.circle {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  border-radius: 50%;
+  background-color: var(--circle-color);
+}
+.circle-plain {
+  background-color: var(--circle-color-plain);
+}
+.dark .circle {
+  background-color: var(--dark-circle-color);
+}
+.dark .circle-plain {
+  background-color: var(--dark-circle-color-plain);
+}
