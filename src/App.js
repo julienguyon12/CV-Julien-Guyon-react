@@ -4,6 +4,7 @@ import Skills from './components/Skills';
 import Profil from './components/Profil';
 import FormationsExperiences from './components/FormationsExperiences';
 import DarkMode from './components/DarkMode';
+import PictureAsPdfIcon from '@mui/icons-material/PictureAsPdf';
 
 function App() {
   return (
@@ -12,6 +13,14 @@ function App() {
         <div className='sidebar'>
           <div className='action'>
             <DarkMode />
+
+            <a
+              href='./image/cv-Julien-Guyon-fr.pdf'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              <PictureAsPdfIcon />
+            </a>
           </div>
           <User />
           <Skills />

@@ -53,7 +53,7 @@ const dataExperience = [
       },
       {
         id: 2,
-        title: 'Gestion financiere de projets (2M€/an)',
+        title: 'Gestion financière de projets (2M€/an)',
       },
       {
         id: 3,

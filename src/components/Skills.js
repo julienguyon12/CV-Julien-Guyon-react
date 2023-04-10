@@ -8,17 +8,27 @@ function Skills() {
     <>
       <div className='skills'>
         <h2 className='h2'>Competence</h2>
-        <Skill title='HTML' rating='5' />
-        <Skill title='CSS' rating='5' />
-        <Skill title='JAVASCRIPT' rating='4' />
-        <Skill title='REACT' rating='3' />
-        <Skill title='Node' rating='3' />
+        <div className='competences'>
+          <Skill title='REACT' />
+          <Skill title='Node' />
+          <Skill title='Redux' />
+          <Skill title='Ajax' />
+          <Skill title='EmailJS' />
+          <Skill title='JAVASCRIPT' />
+          <Skill title='HTML' />
+          <Skill title='CSS' />
+          <Skill title='SASS' />
+          <Skill title='Strapi' />
+          <Skill title='MySQL' />
+          <Skill title='Render' />
+          <Skill title='Netlify' />
+        </div>
       </div>
       <div className='skills'>
         <h2 className='h2'>Langues</h2>
-        <Skill title='Anglais' rating='5' />
-        <Skill title='Espagnol' rating='4' />
-        <Skill title='Danois' rating='2' />
+        <Skill title='Anglais' />
+        <Skill title='Espagnol' />
+        <Skill title='Danois' />
       </div>
       <Interest />
     </>

@@ -18,11 +18,11 @@ function User() {
         </p>
         <p className='user-info'>
           <LocalPhoneOutlinedIcon />
-          <a href='tel:+330606060606'>0606060606</a>
+          <a href='tel:+330606060606'>0686070232</a>
         </p>
         <p className='user-info'>
           <EmailOutlinedIcon />
-          <a href='mailto:julien@gmail.com'>julien@gmail.com</a>
+          <a href='mailto:julien@gmail.com'>julien.guyon@2018.icam.fr</a>
         </p>
         <p className='user-info'>
           <CalendarMonthOutlinedIcon />
