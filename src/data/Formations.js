@@ -1,7 +1,7 @@
 const dataFormation = [
   {
     id: 1,
-    title: 'Formation dev',
+    title: 'Formation développeur web',
     date: "03/2022 - Aujourd'hui",
     localisation: 'Remote',
   },
