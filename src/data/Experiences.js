@@ -1,13 +1,5 @@
 const dataExperience = [
   {
-    id: 1,
-    title: 'Technicien de maintenance',
-    date: '05/2021 - 09/2021',
-    location: 'Etablissement St-Joseph - Toulouse',
-    text: "Maintenance de l'établissement (électricité, menuiserie ...)",
-    missions: [],
-  },
-  {
     id: 2,
     title: 'Responsable des travaux chez les particuliers',
     date: '07/2020 - 04/2021',

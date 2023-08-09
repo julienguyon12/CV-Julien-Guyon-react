@@ -10,7 +10,6 @@ function Skills() {
         <h2 className='h2'>Competence</h2>
         <div className='competences'>
           <Skill title='REACT' />
-          <Skill title='Node' />
           <Skill title='Redux' />
           <Skill title='Ajax' />
           <Skill title='EmailJS' />

@@ -10,7 +10,7 @@ function User() {
     <div className='user'>
       <img src='./image/julien-git.jpg' alt='' className='user-pic' />
       <h1 className='user-name'>Julien Guyon</h1>
-      <p className='user-profesion'>Developpeur web</p>
+      <p className='user-profesion'>Développeur web</p>
       <div className='user-infos'>
         <p className='user-info'>
           <HomeOutlinedIcon />
